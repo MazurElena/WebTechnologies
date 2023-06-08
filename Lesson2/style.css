@@ -1,0 +1,24 @@
+p{
+  color: coral;
+}
+ul{
+  color: fuchsia;
+}
+ol{
+   color: darkgoldenrod;
+}
+h3{
+   color: darkgreen;
+}
+body{
+     background-color: rgb(203, 240, 116);
+     font-size: 14px;
+     font-family: 'Roboto', sans-serif;
+}
+h1{
+  text-shadow: 2px 2px 1px;
+  color: indigo; 
+}
+h2{
+   color: darkblue;
+}
